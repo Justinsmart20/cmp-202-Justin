@@ -4,8 +4,8 @@ public class Main {
     
     public static void main(String[] args) {
 
-        Person student = new Person("Bingham","Francis","April","bhu/22/04/05/0036", 0);
-        Person staff = new Person("Bingham","Francis","April","bhu/22/04/05/0036", 0);
+        Person student = new Person("Bingham","Justin","April","bhu/22/04/05/0013", 0);
+        Person staff = new Person("Bingham","Justin","April","bhu/22/04/05/0013", 0);
         
         // person.setName("F");
         // person.setPassword("April");
